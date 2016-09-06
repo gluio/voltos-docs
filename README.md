@@ -1,2 +1,2 @@
 # voltos-docs
-Documentation for Voltos credentials-as-a-service (https://
+Documentation for Voltos credentials-as-a-service (https://voltos.io)
