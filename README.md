@@ -12,7 +12,7 @@ Voltos stores your credentials (e.g. API keys, usernames, passwords, tokens, con
 ## Installing on your platform
 * [Ruby](https://github.com/gluio/voltos-ruby/)
 
-If your platform isn't listed above: you can download and install `voltos` by ...
+If your platform isn't listed above: you can download and install `voltos` at: https://dl.equinox.io/voltos/voltos/stable
 
 
 ## Getting started
