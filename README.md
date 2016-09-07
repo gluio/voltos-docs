@@ -7,6 +7,7 @@ Voltos stores your credentials (e.g. API keys, usernames, passwords, tokens, con
 * [Installing on your platform](#installing-on-your-platform)
 * [Getting started](#getting-started)
 * [Using Voltos with your apps](#using-voltos-with-your-apps)
+* [Deploying with Voltos](#deploying-with-voltos)
 
 
 ## Installing on your platform
@@ -95,3 +96,11 @@ $ voltos run "rails s -p $PORT"
 ```
 
 **How it works:** `voltos` securely retrieves an API token for the selected bundle and stores it in `.env` as `VOLTOS_KEY`. `voltos` will use `VOLTOS_KEY` any time it needs to access, manage and switch between bundles of credentials. `.env` is also added to `.gitignore` to protect against accidental source commit. 
+
+## Deploying with Voltos
+
+We've got deployment to Heroku with Ruby working. 
+
+* [Heroku (Ruby)](https://github.com/gluio/voltos-ruby#deploying-to-heroku)
+
+The rest to come. Just let us know how where you'd like to deploy :)
