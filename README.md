@@ -1,6 +1,13 @@
 # Voltos
 Voltos (https://voltos.io) is a secure credentials-as-a-service platform for app and system developers.
 
+Are you tired of:
+
+* Forgetting to `.gitignore` your environment config file?
+* Building & maintaining your custom credentials storage solution?
+* Relying on credentials management that only work on specific deployment platforms?
+* Developing workarounds for sharing credentials with team members ... and then managing updates?
+
 Voltos stores your credentials (e.g. API keys, usernames, passwords, tokens, configuration settings) in a secure, central location - so that your apps can access them securely as environment variables, and you can more easily manage & access them.
 
 ## Contents
