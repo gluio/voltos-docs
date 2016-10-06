@@ -18,7 +18,9 @@ Voltos stores your credentials (e.g. API keys, usernames, passwords, tokens, con
 
 
 ## Installing on your platform
-* [Ruby](https://github.com/gluio/voltos-ruby/)
+* [Ruby](https://github.com/gluio/voltos-ruby)
+* [Node.js](https://github.com/gluio/voltos-node)
+
 
 If your platform isn't listed above: you can download and install `voltos` at: https://dl.equinox.io/voltos/voltos/stable
 
@@ -106,8 +108,9 @@ $ voltos run "rails s -p $PORT"
 
 ## Deploying with Voltos
 
-We've got deployment to Heroku with Ruby working. 
+We've got deployment for. 
 
 * [Heroku (Ruby)](https://github.com/gluio/voltos-ruby#deploying-to-heroku)
+* [Azure (Node.js)](https://github.com/gluio/voltos-node#deploying-to-azure)
 
-The rest to come. Just let us know how where you'd like to deploy :)
+The rest to come. We'd love to hear from you about how you'd like to deploy (team.voltos@gmail.com).
