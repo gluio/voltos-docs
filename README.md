@@ -22,7 +22,7 @@ Voltos stores your credentials (e.g. API keys, usernames, passwords, tokens, con
 * [Node.js](https://github.com/gluio/voltos-node)
 
 
-If your platform isn't listed above: you can download and install `voltos` at: https://dl.equinox.io/voltos/voltos/stable
+If your platform isn't listed above: you can download and install `voltos` from: https://voltos.io
 
 
 ## Getting started
