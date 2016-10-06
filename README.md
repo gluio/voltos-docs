@@ -11,18 +11,18 @@ Are you tired of:
 Voltos stores your credentials (e.g. API keys, usernames, passwords, tokens, configuration settings) in a secure, central location - so that your apps can access them securely as environment variables, and you can more easily manage & access them.
 
 ## Contents
-* [Installing on your platform](#installing-on-your-platform)
+* [Installing on your dev platform](#installing-on-your-dev-platform)
 * [Getting started](#getting-started)
 * [Using Voltos with your apps](#using-voltos-with-your-apps)
 * [Deploying with Voltos](#deploying-with-voltos)
 
 
-## Installing on your platform
+## Installing on your dev platform
 * [Ruby](https://github.com/gluio/voltos-ruby)
 * [Node.js](https://github.com/gluio/voltos-node)
 
 
-If your platform isn't listed above: you can download and install `voltos` from: https://voltos.io
+If your platform isn't listed above: you can download and install `voltos` onto your OS via: https://voltos.io
 
 
 ## Getting started
